@@ -1,0 +1,15 @@
+# Rechtecke in Kreis - Python Version
+# Enhanced version with modern UI and export capabilities
+
+# Core dependencies
+customtkinter>=5.2.0  # Modern UI framework with dark mode support
+Pillow>=10.0.0        # Image processing for PNG export
+ezdxf>=1.1.0          # DXF file creation for CAD integration
+
+# Standard library modules (no installation required):
+# - math (Standard-Bibliothek)
+# - typing (Standard-Bibliothek)
+# - dataclasses (Standard-Bibliothek, Python 3.7+)
+
+# Mindestanforderung: Python 3.7+
+
